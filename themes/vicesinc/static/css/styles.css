@@ -325,6 +325,17 @@ a {
   color: #000101; 
 }
 
+.cta-buy {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cta-button {
+  margin: 16px;
+  width: 220px;
+  max-width: calc(100% - 32px);
+}
+
 /* MERCH */
 
 .merch-list {
