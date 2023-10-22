@@ -15,6 +15,44 @@
     } ],
     "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
     "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Y6uNPnKvVNEdOs0tExqxJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Y6uNPnKvVNEdOs0tExqxJ",
+    "id" : "4Y6uNPnKvVNEdOs0tExqxJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273999c510d56cc79a050ae2106",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02999c510d56cc79a050ae2106",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851999c510d56cc79a050ae2106",
+      "width" : 64
+    } ],
+    "name" : "Back 2 Square 1/Arcade Love",
+    "release_date" : "2023-10-19",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:4Y6uNPnKvVNEdOs0tExqxJ"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
       "spotify" : "https://open.spotify.com/album/15NOYxMvl7h3wDNaboteCd"
     },
     "href" : "https://api.spotify.com/v1/albums/15NOYxMvl7h3wDNaboteCd",
@@ -304,48 +342,10 @@
     "total_tracks" : 2,
     "type" : "album",
     "uri" : "spotify:album:0RGx8M6d63DC5mh7IO34ZY"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/3ojBxLgL2oPEUrjXHlTQEB"
-    },
-    "href" : "https://api.spotify.com/v1/albums/3ojBxLgL2oPEUrjXHlTQEB",
-    "id" : "3ojBxLgL2oPEUrjXHlTQEB",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273a4149d3458a587a623eadaef",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02a4149d3458a587a623eadaef",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851a4149d3458a587a623eadaef",
-      "width" : 64
-    } ],
-    "name" : "Before Tonight",
-    "release_date" : "2023-05-23",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:3ojBxLgL2oPEUrjXHlTQEB"
   } ],
   "limit" : 9,
   "next" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz/albums?include_groups=single&offset=9&limit=9",
   "offset" : 0,
   "previous" : null,
-  "total" : 39
+  "total" : 40
 }
