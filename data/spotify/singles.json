@@ -15,6 +15,82 @@
     } ],
     "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
     "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1QHjb87rtqNWx0SIfwC4NE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1QHjb87rtqNWx0SIfwC4NE",
+    "id" : "1QHjb87rtqNWx0SIfwC4NE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2732d6e256927dca71639770822",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e022d6e256927dca71639770822",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048512d6e256927dca71639770822",
+      "width" : 64
+    } ],
+    "name" : "Rapid Fire '23",
+    "release_date" : "2023-11-28",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:1QHjb87rtqNWx0SIfwC4NE"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2V09CwDEx0EEuqAwE9tejw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2V09CwDEx0EEuqAwE9tejw",
+    "id" : "2V09CwDEx0EEuqAwE9tejw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a793fb8c2c11f18c2fac2356",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02a793fb8c2c11f18c2fac2356",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851a793fb8c2c11f18c2fac2356",
+      "width" : 64
+    } ],
+    "name" : "Live on The Nite Show with Danny Cashman",
+    "release_date" : "2023-11-10",
+    "release_date_precision" : "day",
+    "total_tracks" : 3,
+    "type" : "album",
+    "uri" : "spotify:album:2V09CwDEx0EEuqAwE9tejw"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
       "spotify" : "https://open.spotify.com/album/0gNJz5qyiMcgDPZhI1B8VZ"
     },
     "href" : "https://api.spotify.com/v1/albums/0gNJz5qyiMcgDPZhI1B8VZ",
@@ -266,86 +342,10 @@
     "total_tracks" : 2,
     "type" : "album",
     "uri" : "spotify:album:0fP8cte0s4q6iybEtWrksq"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/5GtUwkoDFAFJdnpWajo1hm"
-    },
-    "href" : "https://api.spotify.com/v1/albums/5GtUwkoDFAFJdnpWajo1hm",
-    "id" : "5GtUwkoDFAFJdnpWajo1hm",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273530876b3ead3e0bcad0f4ef0",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02530876b3ead3e0bcad0f4ef0",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851530876b3ead3e0bcad0f4ef0",
-      "width" : 64
-    } ],
-    "name" : "Aint It Fun",
-    "release_date" : "2023-07-18",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:5GtUwkoDFAFJdnpWajo1hm"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/3eFJ73sPshkrJzMIo7VTW8"
-    },
-    "href" : "https://api.spotify.com/v1/albums/3eFJ73sPshkrJzMIo7VTW8",
-    "id" : "3eFJ73sPshkrJzMIo7VTW8",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273d86fa10fd033fa42d8a62ba3",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02d86fa10fd033fa42d8a62ba3",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851d86fa10fd033fa42d8a62ba3",
-      "width" : 64
-    } ],
-    "name" : "I Know/I Feel It All",
-    "release_date" : "2023-06-27",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:3eFJ73sPshkrJzMIo7VTW8"
   } ],
   "limit" : 9,
   "next" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz/albums?include_groups=single&offset=9&limit=9",
   "offset" : 0,
   "previous" : null,
-  "total" : 41
+  "total" : 43
 }
