@@ -15,6 +15,82 @@
     } ],
     "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
     "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5S0TkzIflmIx3gzUOr58Qt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5S0TkzIflmIx3gzUOr58Qt",
+    "id" : "5S0TkzIflmIx3gzUOr58Qt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27365eab695faa52ee3f41afaaa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0265eab695faa52ee3f41afaaa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485165eab695faa52ee3f41afaaa",
+      "width" : 64
+    } ],
+    "name" : "Look At Us Now (Honeycomb)",
+    "release_date" : "2023-12-27",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:5S0TkzIflmIx3gzUOr58Qt"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7MLYS1kYwQ4oojUtikGy0d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7MLYS1kYwQ4oojUtikGy0d",
+    "id" : "7MLYS1kYwQ4oojUtikGy0d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27397eb8519aac863f115c0096f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0297eb8519aac863f115c0096f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485197eb8519aac863f115c0096f",
+      "width" : 64
+    } ],
+    "name" : "To Clyde",
+    "release_date" : "2023-12-15",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:7MLYS1kYwQ4oojUtikGy0d"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
       "spotify" : "https://open.spotify.com/album/1QHjb87rtqNWx0SIfwC4NE"
     },
     "href" : "https://api.spotify.com/v1/albums/1QHjb87rtqNWx0SIfwC4NE",
@@ -266,86 +342,10 @@
     "total_tracks" : 2,
     "type" : "album",
     "uri" : "spotify:album:6KiYWqHEBub4bhwo5i0e9x"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/7vK7gkWbt8tKFK5TrEJfKs"
-    },
-    "href" : "https://api.spotify.com/v1/albums/7vK7gkWbt8tKFK5TrEJfKs",
-    "id" : "7vK7gkWbt8tKFK5TrEJfKs",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b27302f1047b368cbdfcd55404bc",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e0202f1047b368cbdfcd55404bc",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d0000485102f1047b368cbdfcd55404bc",
-      "width" : 64
-    } ],
-    "name" : "Right Through/Ghost",
-    "release_date" : "2023-08-10",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:7vK7gkWbt8tKFK5TrEJfKs"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/0fP8cte0s4q6iybEtWrksq"
-    },
-    "href" : "https://api.spotify.com/v1/albums/0fP8cte0s4q6iybEtWrksq",
-    "id" : "0fP8cte0s4q6iybEtWrksq",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273c7e77d323695a9f45e895cea",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02c7e77d323695a9f45e895cea",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851c7e77d323695a9f45e895cea",
-      "width" : 64
-    } ],
-    "name" : "Cinnamon",
-    "release_date" : "2023-07-30",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:0fP8cte0s4q6iybEtWrksq"
   } ],
   "limit" : 9,
   "next" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz/albums?include_groups=single&offset=9&limit=9",
   "offset" : 0,
   "previous" : null,
-  "total" : 43
+  "total" : 45
 }
