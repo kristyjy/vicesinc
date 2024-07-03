@@ -15,6 +15,120 @@
     } ],
     "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
     "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5PQkr6lvAJgjSXdHifI8zn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5PQkr6lvAJgjSXdHifI8zn",
+    "id" : "5PQkr6lvAJgjSXdHifI8zn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273febe5dd1f16b7a3af34e71bd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02febe5dd1f16b7a3af34e71bd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851febe5dd1f16b7a3af34e71bd",
+      "width" : 64
+    } ],
+    "name" : "Impostor Syndrome",
+    "release_date" : "2024-06-27",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:5PQkr6lvAJgjSXdHifI8zn"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2OfxDEv64OtFmpqgOzw8ld"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2OfxDEv64OtFmpqgOzw8ld",
+    "id" : "2OfxDEv64OtFmpqgOzw8ld",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2735ec6ef722593acc4479d65f7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e025ec6ef722593acc4479d65f7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048515ec6ef722593acc4479d65f7",
+      "width" : 64
+    } ],
+    "name" : "Too Far Down",
+    "release_date" : "2024-05-29",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:2OfxDEv64OtFmpqgOzw8ld"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2tprEtOmMqZhMZB3K1lbDU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2tprEtOmMqZhMZB3K1lbDU",
+    "id" : "2tprEtOmMqZhMZB3K1lbDU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273f9cbb8269cb94f17bfdf5bc4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02f9cbb8269cb94f17bfdf5bc4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851f9cbb8269cb94f17bfdf5bc4",
+      "width" : 64
+    } ],
+    "name" : "Starting Over Again",
+    "release_date" : "2024-04-25",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:2tprEtOmMqZhMZB3K1lbDU"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
+      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
+      "name" : "Vices Inc",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
+    } ],
+    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
+    "external_urls" : {
       "spotify" : "https://open.spotify.com/album/1Zu45MfdKxwjeVOUyEKVNa"
     },
     "href" : "https://api.spotify.com/v1/albums/1Zu45MfdKxwjeVOUyEKVNa",
@@ -228,124 +342,10 @@
     "total_tracks" : 2,
     "type" : "album",
     "uri" : "spotify:album:1QHjb87rtqNWx0SIfwC4NE"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/2V09CwDEx0EEuqAwE9tejw"
-    },
-    "href" : "https://api.spotify.com/v1/albums/2V09CwDEx0EEuqAwE9tejw",
-    "id" : "2V09CwDEx0EEuqAwE9tejw",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273a793fb8c2c11f18c2fac2356",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02a793fb8c2c11f18c2fac2356",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851a793fb8c2c11f18c2fac2356",
-      "width" : 64
-    } ],
-    "name" : "Live on The Nite Show with Danny Cashman",
-    "release_date" : "2023-11-10",
-    "release_date_precision" : "day",
-    "total_tracks" : 3,
-    "type" : "album",
-    "uri" : "spotify:album:2V09CwDEx0EEuqAwE9tejw"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/0gNJz5qyiMcgDPZhI1B8VZ"
-    },
-    "href" : "https://api.spotify.com/v1/albums/0gNJz5qyiMcgDPZhI1B8VZ",
-    "id" : "0gNJz5qyiMcgDPZhI1B8VZ",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273bf084dbe6e855b851a907c6d",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02bf084dbe6e855b851a907c6d",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851bf084dbe6e855b851a907c6d",
-      "width" : 64
-    } ],
-    "name" : "And So It Has Begun/My Little Dreamer",
-    "release_date" : "2023-10-30",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:0gNJz5qyiMcgDPZhI1B8VZ"
-  }, {
-    "album_group" : "single",
-    "album_type" : "single",
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1SURdzPcn0fO2kYnZ7jAAz"
-      },
-      "href" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz",
-      "id" : "1SURdzPcn0fO2kYnZ7jAAz",
-      "name" : "Vices Inc",
-      "type" : "artist",
-      "uri" : "spotify:artist:1SURdzPcn0fO2kYnZ7jAAz"
-    } ],
-    "available_markets" : [ "AR", "AU", "AT", "BE", "BO", "BR", "BG", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "DE", "EC", "EE", "SV", "FI", "FR", "GR", "GT", "HN", "HK", "HU", "IS", "IE", "IT", "LV", "LT", "LU", "MY", "MT", "MX", "NL", "NZ", "NI", "NO", "PA", "PY", "PE", "PH", "PL", "PT", "SG", "SK", "ES", "SE", "CH", "TW", "TR", "UY", "US", "GB", "AD", "LI", "MC", "ID", "JP", "TH", "VN", "RO", "IL", "ZA", "SA", "AE", "BH", "QA", "OM", "KW", "EG", "MA", "DZ", "TN", "LB", "JO", "PS", "IN", "BY", "KZ", "MD", "UA", "AL", "BA", "HR", "ME", "MK", "RS", "SI", "KR", "BD", "PK", "LK", "GH", "KE", "NG", "TZ", "UG", "AG", "AM", "BS", "BB", "BZ", "BT", "BW", "BF", "CV", "CW", "DM", "FJ", "GM", "GE", "GD", "GW", "GY", "HT", "JM", "KI", "LS", "LR", "MW", "MV", "ML", "MH", "FM", "NA", "NR", "NE", "PW", "PG", "PR", "WS", "SM", "ST", "SN", "SC", "SL", "SB", "KN", "LC", "VC", "SR", "TL", "TO", "TT", "TV", "VU", "AZ", "BN", "BI", "KH", "CM", "TD", "KM", "GQ", "SZ", "GA", "GN", "KG", "LA", "MO", "MR", "MN", "NP", "RW", "TG", "UZ", "ZW", "BJ", "MG", "MU", "MZ", "AO", "CI", "DJ", "ZM", "CD", "CG", "IQ", "LY", "TJ", "VE", "ET", "XK" ],
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/album/0qWkN607nsWOicfmxMUbkK"
-    },
-    "href" : "https://api.spotify.com/v1/albums/0qWkN607nsWOicfmxMUbkK",
-    "id" : "0qWkN607nsWOicfmxMUbkK",
-    "images" : [ {
-      "height" : 640,
-      "url" : "https://i.scdn.co/image/ab67616d0000b273fa464dab6f885b6cc69b7b6e",
-      "width" : 640
-    }, {
-      "height" : 300,
-      "url" : "https://i.scdn.co/image/ab67616d00001e02fa464dab6f885b6cc69b7b6e",
-      "width" : 300
-    }, {
-      "height" : 64,
-      "url" : "https://i.scdn.co/image/ab67616d00004851fa464dab6f885b6cc69b7b6e",
-      "width" : 64
-    } ],
-    "name" : "Back 2 Square 1/Arcade Love",
-    "release_date" : "2023-10-19",
-    "release_date_precision" : "day",
-    "total_tracks" : 2,
-    "type" : "album",
-    "uri" : "spotify:album:0qWkN607nsWOicfmxMUbkK"
   } ],
   "limit" : 9,
   "next" : "https://api.spotify.com/v1/artists/1SURdzPcn0fO2kYnZ7jAAz/albums?include_groups=single&offset=9&limit=9",
   "offset" : 0,
   "previous" : null,
-  "total" : 48
+  "total" : 51
 }
