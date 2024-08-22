@@ -142,6 +142,11 @@ a {
   height: auto;
   width: 100%;
 }
+@media (min-width: 900px) {
+  .logo-wrap {
+    padding-top: 72px;
+  }
+}
 /* GENERIC SECTIONS */
 
 .section-heading {
